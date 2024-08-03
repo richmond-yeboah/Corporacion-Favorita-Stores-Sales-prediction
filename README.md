@@ -76,7 +76,7 @@ This section encompasses all the insights and final predictions on our test data
 ## Power BI Dashboard
 ![alt text](<PBI dashboard.png>)
 
-
+[Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzI5Y2M5NjItNTVlOS00Y2E2LTkyMTAtZTY2ODQzNDA3YjBmIiwidCI6IjFjZTU4MjFjLTE5NDItNDczMy1hNmRjLTBmYzNhODJiNzRkYiJ9)
 ## Key Insights
 - Within that Timeframe (2013 - 2017), the highest sales was recorded in 2016.
 - There is enough evidence to conclude that promotion had an impact on sales.
