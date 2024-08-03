@@ -72,3 +72,15 @@ A total of four models were built and evaluated with the RMSLE metric and the be
 
 ## Conclusion
 This section encompasses all the insights and final predictions on our test dataset using the model.
+
+## Power BI Dashboard
+![alt text](<PBI dashboard.png>)
+
+
+## Key Insights
+- Within that Timeframe (2013 - 2017), the highest sales was recorded in 2016.
+- There is enough evidence to conclude that promotion had an impact on sales.
+- There earthquake led to surge in sales.
+- On average, sales on holidays are quite higher than sales on days that are not holidays.
+- There are more sales during the weekends with peak sales on Sundays, followed by Saturdays. This could be because generally many people do not go to work (or only work few hours) during the weekends, and thus would have more time to shop during weeekends than weekdays. The least sales were on Thursdays, a quite busy day at the middle of the week.
+- Sales tend to be lower the day before payment days and higher the day after payment days. This indicates that while payment days do not directly alter sales, the days surrounding them experience notable changes in sales, likely due to increased consumer spending after receiving wages.
